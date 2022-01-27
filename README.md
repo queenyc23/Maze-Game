@@ -1,6 +1,7 @@
 # Maze-Game
 
-I created an engine for generating explorable worlds. Users are able to explore and interact with the world I created! 
+I created an engine for generating explorable worlds. Users are able to explore and interact with the world I created! There's background music!
+
 This project required me to:
 - Work through every stage of development from ideation to presentation. 
 - Handle large pieces of code and emulated something like a product development cycle. 
